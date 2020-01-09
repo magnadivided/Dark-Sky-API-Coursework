@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925265601506",
+    "firebase_url": "https://darkskyapi-magnadivided.firebaseio.com",
+    "project_id": "darkskyapi-magnadivided",
+    "storage_bucket": "darkskyapi-magnadivided.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925265601506:android:fa39957c6af561d9350fbb",
+        "android_client_info": {
+          "package_name": "ru.sibgu.magnadivided.darkskyapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925265601506-umic7dror26t5bu5cpg1ahip7daigtun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnwXxpjDkta9Bg0jePLNtERQm9e7t3Lyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925265601506-umic7dror26t5bu5cpg1ahip7daigtun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

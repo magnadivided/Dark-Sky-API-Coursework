@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dark Sky API Курсовая</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="nav_header_title">Dark Sky API Project</string>
+    <string name="nav_header_subtitle">Powered by Dark Sky</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="weather_url">https://api.darksky.net/forecast/</string>
+    <string name="api_key">68b08e0ab4e95cba004b941459c1ea95</string>
+</resources>
